@@ -29,3 +29,6 @@ uv run scripts/nas_audit.py verify-mirror \
 ## License
 
 MIT
+
+---
+Built by [Abhishek Prasad](https://abhishekprasad.fyi)
